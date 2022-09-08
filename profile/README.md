@@ -6,6 +6,9 @@ SMRP is a module registration portal to allow students to easily register for th
 Frontend/Client: [smrp-web](https://github.com/ict3x03-sui-generis/smrp-web)  
 Backend/Server: [smrp-api](https://github.com/ict3x03-sui-generis/smrp-api)
 
+## Project Management
+Kanban Board: [GitHub Project Board](https://github.com/orgs/ict3x03-sui-generis/projects/2/views/1)
+
 ## Members
 #### SE
 - Ng Han Yi (2002437)
